@@ -17,6 +17,21 @@ Mi nombre es Sergio, un apasionado por la tecnolgia :computer: y el aprender en 
 :books: Aprender sobre IA :key:
 
 
+## En GitHub
+<br/>
+
+<a href="https://github.com/SergioM-F">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFuentesDev&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuentesDev&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<iframe src="https://giphy.com/embed/YAPrs0Uf89nSU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-legend-of-zelda-fanpop-YAPrs0Uf89nSU">via GIPHY</a></p>
+
+<h1 align="center">
+
+
 
 ## Puedes Contactarme en 
 
