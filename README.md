@@ -8,6 +8,7 @@ Mi nombre es Sergio, un apasionado por la tecnolgia :computer: y el aprender en 
 :point_right: Lenguaje Kotlin
 :point_right: Lenguaje Python:exclamation: (en un futuro proximo)
 :point_right: Arquitecturas MVP y MVVP
+:ok_hand: Trabajo en Equipo
 
 ## Pasatiempos
 
