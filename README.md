@@ -27,7 +27,7 @@ Mi nombre es Sergio, un apasionado por la tecnolgia :computer: y el aprender en 
 
 <br/>
 
-<iframe src="https://giphy.com/embed/YAPrs0Uf89nSU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-legend-of-zelda-fanpop-YAPrs0Uf89nSU">via GIPHY</a></p>
+
 
 <h1 align="center">
 
